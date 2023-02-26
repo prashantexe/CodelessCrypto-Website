@@ -184,7 +184,7 @@ ul, ol {
     text-transform: capitalize;
 }
 
-.ABC .title {
+.section-head .title {
     color: #EEE;
 }
 
@@ -425,6 +425,9 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     .nav-collapse {
         display: none;
     }
+}
+.XYZ{
+    display: flex;
 }
 
 
