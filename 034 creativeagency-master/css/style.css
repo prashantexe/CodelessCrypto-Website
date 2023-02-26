@@ -180,9 +180,14 @@ ul, ol {
     margin-bottom: 60px;
 }
 
-.section-header .title {
+.section-header {
     text-transform: capitalize;
 }
+
+.ABC .title {
+    color: #EEE;
+}
+
 
 .title:after {
     content:"";
